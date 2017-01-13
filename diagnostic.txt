@@ -1,0 +1,13 @@
+01-13 13:51:22.656 4522-4522/? I/art: Not late-enabling -Xcheck:jni (already on)
+01-13 13:51:22.657 4522-4522/? W/art: Unexpected CPU variant for X86 using defaults: x86
+01-13 13:51:22.748 4522-4522/activityspy.hamzaha.washington.edu.activityspy W/System: ClassLoader referenced unknown path: /data/app/activityspy.hamzaha.washington.edu.activityspy-2/lib/x86
+01-13 13:51:22.795 4522-4522/activityspy.hamzaha.washington.edu.activityspy I/InstantRun: Instant Run Runtime started. Android package is activityspy.hamzaha.washington.edu.activityspy, real application class is null.
+01-13 13:51:23.006 4522-4522/activityspy.hamzaha.washington.edu.activityspy W/System: ClassLoader referenced unknown path: /data/app/activityspy.hamzaha.washington.edu.activityspy-2/lib/x86
+01-13 13:51:23.047 4522-4522/activityspy.hamzaha.washington.edu.activityspy I/MyActivity: onCreate event fired
+01-13 13:51:23.107 4522-4549/activityspy.hamzaha.washington.edu.activityspy I/OpenGLRenderer: Initialized EGL, version 1.4
+01-13 13:51:23.107 4522-4549/activityspy.hamzaha.washington.edu.activityspy D/OpenGLRenderer: Swap behavior 1
+01-13 13:51:31.820 4522-4522/activityspy.hamzaha.washington.edu.activityspy E/MyActivity: We're going down, Captain!
+01-13 13:52:00.420 4522-4522/activityspy.hamzaha.washington.edu.activityspy I/MyActivity: onCreate event fired
+                                                                                          
+                                                                                          [ 01-13 13:52:00.490  1228: 4615 D/         ]
+                                                                                          HostConnection::get() New Host Connection established 0xb2e9f9e0, tid 4615
